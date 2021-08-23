@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/house-client/static/css/main.b90217c3.chunk.css",
+    "main.js": "/house-client/static/js/main.304b0528.chunk.js",
+    "main.js.map": "/house-client/static/js/main.304b0528.chunk.js.map",
+    "runtime-main.js": "/house-client/static/js/runtime-main.31f79d10.js",
+    "runtime-main.js.map": "/house-client/static/js/runtime-main.31f79d10.js.map",
+    "static/js/2.10ff5463.chunk.js": "/house-client/static/js/2.10ff5463.chunk.js",
+    "static/js/2.10ff5463.chunk.js.map": "/house-client/static/js/2.10ff5463.chunk.js.map",
+    "static/js/3.3b8c329e.chunk.js": "/house-client/static/js/3.3b8c329e.chunk.js",
+    "static/js/3.3b8c329e.chunk.js.map": "/house-client/static/js/3.3b8c329e.chunk.js.map",
+    "index.html": "/house-client/index.html",
+    "static/css/main.b90217c3.chunk.css.map": "/house-client/static/css/main.b90217c3.chunk.css.map",
+    "static/js/2.10ff5463.chunk.js.LICENSE.txt": "/house-client/static/js/2.10ff5463.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.31f79d10.js",
+    "static/js/2.10ff5463.chunk.js",
+    "static/css/main.b90217c3.chunk.css",
+    "static/js/main.304b0528.chunk.js"
+  ]
+}
